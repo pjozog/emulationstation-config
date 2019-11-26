@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./C/castlevania3.nes</path>
+		<name>castlevania3</name>
+		<playcount>1</playcount>
+		<lastplayed>20191126T144819</lastplayed>
+	</game>
+	<game>
+		<path>./C/contra.nes</path>
+		<name>contra</name>
+		<playcount>1</playcount>
+		<lastplayed>20191126T150029</lastplayed>
+	</game>
+</gameList>
